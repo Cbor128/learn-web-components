@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+  display: block;
+}
+
+.shippingForm, .billingForm {
+  width: 250px;
+  border: 1px solid black;
+  padding: 10px;
+  color: black;
+  background: lightgray;
+}
+
